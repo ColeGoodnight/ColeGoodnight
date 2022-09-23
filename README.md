@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColeGoodnight
 - 👀 I’m interested in mountain bikes, CAD, and of couse computers!
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on any sort of software project, small or large
 - 📫 How to reach me - colepgoodnight@gmail.com
 
